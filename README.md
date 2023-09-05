@@ -3,8 +3,9 @@
 
 ```  
 - Apples
-- Bananars
+- Bananas
 - Cherries
+- Pineapple
 - Shoes
 - Elderberries
 
