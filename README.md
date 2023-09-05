@@ -4,8 +4,9 @@
 ```  
 - Apples
 - Blueberries
-- apple
+- Bananas
 - Cherries
+- Pineapple
 - Shoes
 - Elderberries
 - apple
