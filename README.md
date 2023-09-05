@@ -3,7 +3,7 @@
 
 ```  
 - Apples
-- Blueberries
+- Blueberrie
 - Cherries
 - Shoes
 - Elderberries
