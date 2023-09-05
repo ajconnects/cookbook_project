@@ -7,7 +7,7 @@
 - Bananas
 - Cherries
 - Pineapple
-- Shoes
+- mango
 - Elderberries
 - apple
 
